@@ -1,0 +1,12 @@
+
+  .page.theme_auto{
+  --main-color:#7FFFD4;
+  --background-color:#00FF00;
+  --nav-title:#00FF00;
+  --header-image:url(../images/cover-image-dark.png);
+  --header-group:#4682B4;
+  --background-site:#7FFFD4;
+  --header-title:#7B68EE;
+  --text-color:#353430;
+  --article-color:#353430;
+}
